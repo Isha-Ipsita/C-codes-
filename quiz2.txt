@@ -1,0 +1,10 @@
+MC	The culture in devops organization prpogates	Rigidly following a plan and processes	Incorrect	Qulaity control team is not responsible any more	Incorrect	Open and transparent culture that supports collaboration	Correct	Hierarchial structure for streamlining processes	Incorrect	
+MC	___ is a shortcoming in waterfall model	Possibility of error is high	Incorrect	Inability to channge during lifecycle	Correct	Expensive 	Incorrect	applicability to any kind of project building	incorrect	
+MC	Agile development cycle has following steps	"analysis,design,code,test,deploy"	Incorrect	"requirement,code,deploy,test,design"	Incorrect	"requirement,design,code ,test ,deploy"	Correct	none of the choices	Incorrect	
+MC	During which phase in Agile an idea is converted into a small feature	Test	Incorrect	Code	Incorrect	Planning	Correct	Deployment	Incorrect	
+MC	Which of the following is an Agile development methodology	Shell programming	Incorrect	DMAIC	Incorrect	Extreme Programming	Correct	Scrum	Incorrect	
+MC	_________________ is one of the reasons for conflict between Dev and Ops team	Both follow different processes	Correct	Developers do not like testing	Incorrect	Ops can't code	Incorrect	Dev feel ops not needed	Incorrect	
+MC	Dev and Ops use ___________ technologies for automation	Virtualization	Incorrect	Containers	Incorrect	Cloud	Correct	orechestration	Incorrect	
+MC	DevOps is a combination of	Development and Operations	Correct	Developers and Opinions	Incorrect	Developers and Options	Incorrect	Developers and Opposition	Incorrect	
+MC	Agile software development has advantages of	Cost Effectiveness	Incorrect	Low Waste	Incorrect	Fast Delivery	Incorrect	all three	Correct	
+MC	Which phase of waterfall model consumes maximum time	Testing 	Correct	Designing	Incorrect	Coding	Incorrect	Documentaion	Incorrect	
